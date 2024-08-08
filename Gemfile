@@ -19,7 +19,7 @@ gem 'rubocop', '>= 0.87.0', group: :test
 
 # All of this is for Slate / middleman
 
-gem "middleman", "~> 4.3", ">= 4.3.7"
+gem "middleman", "~> 4.4", ">= 4.4.0"
 
 # For syntax highlighting
 gem "middleman-syntax", ">= 3.3.0"
